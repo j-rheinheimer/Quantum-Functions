@@ -159,3 +159,5 @@ def dot_product(vector1: list, vector2: list) -> float:
     for i in range(0, 2):
         cont = cont + vector1[i]*vector2[i]
     return cont
+
+# NOT FINISHED
